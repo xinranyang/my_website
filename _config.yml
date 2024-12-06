@@ -1,7 +1,7 @@
 title: Computing in Context - NAME
 author: NAME
 
-only_build_toc_files: true
+
 
 execute:
   execute_notebooks: "off"
